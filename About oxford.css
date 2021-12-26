@@ -1,0 +1,176 @@
+
+/* 
+WHEN I WAS MAKING THIS PROJECT I DON'T  KNOW ABOUT #FLEX BOX PROPERTY THAT'S
+WHY I FACED LOT OF PROBLEM TO SET POSITION OF THESE DIV */
+
+
+.mm{height: 150px;
+	   width: 1350px;
+	   background-color: pink;
+	   text-align: center;
+	   font-size: 55px;
+	   margin-top: -7px;
+	   padding-top: 20px;
+	   border:2px solid black;
+       
+	}
+
+.sec{font-size: 40px;}
+
+
+
+.logs{height: 168px;
+	width: 200px;
+    background-color: red;
+    position: absolute;
+    top: 4px;
+    background-image: url(lame.png);
+
+}
+
+.menu{display: inline;
+	position: relative;
+	top: -30px;
+	background-color: yellow;
+	height: 300px;
+	font-size: 25px;
+	padding: 5px;}
+
+.main{height: 500px;
+	width: 1350px;
+	background-color: red;
+	background-image: url(hd.jpg);
+	border:3px solid black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-top: 10px;
+
+
+	}
+
+.first{font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+
+
+}
+.pera1{text-align: center;
+	font-weight: bold;
+	font-size: 20px;}
+
+.second{font-size: 35px;
+	font-weight: bold;
+	text-align: center;}
+
+.pera2{text-align: center;
+font-size: 20px;
+}
+
+
+.third{font-size: 35px;
+	font-weight: bold;
+	text-align: center;}
+
+.pera3{text-align: center;
+font-size: 20px;}
+
+
+.apple{background-color: blue;
+	height: 200px;
+	width: 330px;
+	background-image: url(wolfson.jpg);}
+
+.boll{
+background-color: pink;
+	height: 200px;
+	width: 330px;
+	background-image: url(trump.jpg);}
+
+.cat{background-color: yellow;
+	height: 200px;
+	width: 330px;
+	background-image: url(certified.jpg);}
+
+.dog{
+background-color: pink;
+	height: 200px;
+	width: 330px;
+background-image: url(llb.jpg);}
+
+
+.apple1{background-color: blue;
+	height: 200px;
+	width: 330px;
+	background-image: url(cherch.jpg);}
+
+.boll1{
+background-color: pink;
+	height: 200px;
+	width: 330px;
+	background-image: url(together.jpg);
+	background-size: cover;
+
+}
+
+.cat1{background-color: yellow;
+	height: 200px;
+	width: 330px;
+	background-image: url(great.jpg);}
+
+.dog1{
+background-color: pink;
+	height: 190px;
+	width: 330px;
+background-image: url(bench.jpg);}
+
+.man{height: 190px;
+	width: 1350px;
+	background-color:  red;
+	padding-top: 20px;
+	text-decoration: underline;
+	color: white;}
+
+.kom{content: white;
+	position: relative;
+	top: 30px;
+	left: 70px;
+	font-size: 20px;
+	text-decoration: none;}
+	
+ul li{display: inline;
+	position: relative;
+	left: 550px;
+	font-size: 20px;
+	padding: 30px;
+    bottom: 95px;
+    color: white;
+    text-decoration: underline white;}
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+   
+
+
+
+
+
+
+
+
+  
+    
+
+ 
+
+
